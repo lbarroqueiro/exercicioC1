@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1464559722 source:/home/luciano/Desktop/teste c/exercicio1/main.cpp
+	<cstdlib>
+	<stdio.h>
+
